@@ -1,13 +1,13 @@
-# ?? Job Application Tracker  
+# Job Application Tracker  
   
 A full-stack web app to track job applications.  
   
-## ??? Tech Stack  
+##  Tech Stack  
 - Frontend: React.js  
 - Backend: Spring Boot  
 - Database: MySQL  
   
-## ? Features  
+##  Features  
 - Add, Edit, Delete applications  
 - Status tracking  
 - Search and Filter  
@@ -27,7 +27,7 @@ A full-stack web app to track job applications.
 3. `npm start`
 4. Open `http://localhost:3000`
 
-## 👩‍💻 Developer
+## Developer
 Priti Priyanka Dash
   
 ## ????? Developer: Priti Priyanka Dash 
